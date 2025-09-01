@@ -25,3 +25,7 @@ This repository contains code, notebooks, and data related to **IA-340: Data Min
 - Mini Project
 - Final Project
 
+## Labs
+
+1. [Lab 1](https://github.com/mjansen028/IA-340/blob/main/lab1.ipynb)
+
