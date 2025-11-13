@@ -32,3 +32,5 @@ This repository contains code, notebooks, and data related to **IA-340: Data Min
 3. [Lab 4](https://github.com/mjansen028/IA-340/blob/main/Collect_Census_Data.ipynb)
 4. [Lab 6](https://github.com/mjansen028/IA-340/blob/main/lab6.ipynb)
 5. [Mini Project](https://github.com/mjansen028/IA-340/blob/main/miniproject.ipynb)
+6. [Lab 10](https://github.com/mjansen028/IA-340/blob/main/lab10.ipynb)
+7. [Lab 11](https://github.com/mjansen028/IA-340/blob/main/Analyze_Twitter_Data.ipynb)
